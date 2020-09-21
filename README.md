@@ -1,5 +1,5 @@
 # movieRecommendation
-
+**2019학년도 서울시립대학교 소프트웨어응용 과목 텀프로젝트**</br></br>
 imdb의 Movie dataset를 이용해서 사용자가 가장 좋아할만한 영화를 추천해주는 pyqt5 기반 GUI 어플리케이션.
 imdb의 api를 통해 imdb서버의 포스터 이미지를 가져온 후 이를 표시해준다.
 
